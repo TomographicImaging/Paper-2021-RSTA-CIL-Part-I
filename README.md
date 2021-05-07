@@ -1,4 +1,10 @@
-This code reproduces all the results presented in [**Core Imaging Library part I: a versatile python framework for tomographic imaging**](https://doi.org/10.1098/rsta.2020.0192).
+This code reproduces all the results presented in 
+
+[**Core Imaging Library part I: a versatile python framework for tomographic imaging**](https://doi.org/10.1098/rsta.2020.0192).
+
+A preprint is available from arXiv:
+
+https://arxiv.org/abs/2102.04560
 
 # Instructions
 
