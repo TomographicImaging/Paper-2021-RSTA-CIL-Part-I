@@ -23,5 +23,5 @@ There are four Jupyter notebooks caseXX_... for XX = 00, 01, 02, 03 covering the
     
 # Reference
     
-Jørgensen JS et al. 2021 Core imaging library part I: a versatile python framework for tomographic imaging. Phil. Trans. R. Soc. A 20200192.           (https://doi.org/10.1098/rsta.2020.0192)
+Jørgensen JS et al. 2021 Core Imaging Library part I: a versatile python framework for tomographic imaging. Phil. Trans. R. Soc. A 20200192.           (https://doi.org/10.1098/rsta.2020.0192)
 
