@@ -17,7 +17,7 @@ conda activate cil1_demos
 ```
 
 ## 3)
-There are four Jupyter notebooks caseXX_... for XX = 00, 01, 02, 03 covering the running example and the three case studies of the article.
+There are four Jupyter notebooks caseXX_... for XX = 00, 01, 02, 03 covering the running example and the three case studies of the article. The steel-wire dataset of the running example is included in CIL. The case study datasets are available as detailed in the article. Each notebook runs all processing and reconstruction and produces the figures (and more) as shown in the article.
 
 
     
