@@ -5,16 +5,27 @@ This code reproduces all the results presented in
 by
 
 Jakob S. Jørgensen
+
 Evelina Ametova
+
 Genoveva Burca
+
 Gemma Fardell
+
 Evangelos Papoutsellis
+
 Edoardo Pasca
+
 Kris Thielemans
+
 Martin Turner
+
 Ryan Warr
+
 William R. B. Lionheart
+
 Philip J. Withers
+
 
 A preprint is available from arXiv:
 
