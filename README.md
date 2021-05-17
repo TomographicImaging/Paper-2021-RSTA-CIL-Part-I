@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/364223344.svg)](https://zenodo.org/badge/latestdoi/364223344)
+[![DOI](https://zenodo.org/badge/364223345.svg)](https://zenodo.org/badge/latestdoi/364223345)
 
 This code reproduces all the results presented in 
 
