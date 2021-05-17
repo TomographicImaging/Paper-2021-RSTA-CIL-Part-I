@@ -1,3 +1,6 @@
+Also available on Zenodo:
+[![DOI](https://zenodo.org/badge/364223345.svg)](https://zenodo.org/badge/latestdoi/364223345)
+
 This code reproduces all the results presented in 
 
 [**Core Imaging Library part I: a versatile python framework for tomographic imaging**](https://doi.org/10.1098/rsta.2020.0192)
